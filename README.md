@@ -1,7 +1,4 @@
-<div align="center">
-    <h1>Character-and-Network-Analysis-in-Text</h1>
-    <img src="https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg" alt="Workflow status badge">
-</div>
+
 
 
 # Character-and-Network-Analysis-in-Text
