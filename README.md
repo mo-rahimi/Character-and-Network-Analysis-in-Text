@@ -2,4 +2,4 @@
 
 
 # Character-and-Network-Analysis-in-Text
-The project aims to develop an automated model for analyzing the characters and their relationships in books or any type of text documents using statistical and data mining techniques. The purpose of this automated model is to provide insights into the complex narrative structures and character dynamics found within literary works.
+The project aims to develop an automated model for analyzing the characters and their relationships in books or any type of text documents using statistical and data mining techniques. The purpose of this automated model is to provide insights into the complex narrative structures and character dynamics found within literary works. In this project Python programming is used.
